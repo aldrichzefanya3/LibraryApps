@@ -1,7 +1,7 @@
 # LibraryApps
-==========================
+
 Cara menjalankan aplikasi
-=========================== 
+
 1. Jalankan seperti penggunaan laravel dengan xampp pada umumnya 
     ->cmd: lokasi file
     ->lokasi file->php artisan serve 
