@@ -1,5 +1,5 @@
-# LibraryApps
-
+# NewsApps
+Aplikasi ini dibuat menggunakan framework php laravel, library jquery, bootstrap,mysql.
 Cara menjalankan aplikasi
 
 1. Jalankan seperti penggunaan laravel dengan xampp pada umumnya 
@@ -7,6 +7,8 @@ Cara menjalankan aplikasi
     ->lokasi file->php artisan serve 
     ->Setelah itu akan muncul link localhost dan sebelum itu aktifkan xampp apache dan mysql untuk dapat tersambung dengan server dan database
 2. Ketika sudah dalam local host maka akan muncul view "Home". Fitur Home ini dibuat secara singkat dan sederhana untuk menuju ke menu selanjutnya.
-3. Terdapat button "Add a books" yang merupakan inti dari aplikasi semacam pendataan buku dalam sebuah perpustakaan.
-4. Pengguna dapat create, read, edit, delete thread yang berisi berbagai macam info singkat buku yang berada dalam sebuah perpustakaan.
-5. Didalam website ini juga terdapat fitur paginasi dan sudah menggunakan rest api. 
+3. Terdapat button "Add a news" yang merupakan inti dari aplikasi berita ini.
+4. Dalam menu news sudah terdapat list berita dan juga button untuk create berita maupun tags berita.
+5. News dan Tag sudah dilengkapi dengan CRUD dan rest api
+6. Pengguna juga dapat memilih lebih dari 1 satu tag. 
+7. Didalam website ini juga terdapat fitur paginasi dan sudah menggunakan rest api. 
